@@ -1,0 +1,1 @@
+Simple project recipe-app based on Spring Guru course from udemy
